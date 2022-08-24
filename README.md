@@ -47,4 +47,4 @@ Program is submitted by the due date listed and pushed to assigned GitHub Reposi
 ![Alt text](https://instructorc.github.io/site/slides/java/images/intro/garretts_nutritional_label.PNG "Garretts Nutritional Facts")
 
 ## Submission
-Make sure to upload the URL to your assigned GitHub repository to Sakai by the due date and time listed.  
+For program 1, you will only need to upload the .java file that contains your code to Sakai under the Assignment tab.  
