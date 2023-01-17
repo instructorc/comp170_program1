@@ -36,7 +36,7 @@ Style - Use of comments, space and descriptive variable names.  For this course,
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Requirement 5 (5 Points)
-Program is submitted by the due date listed and pushed to assigned GitHub Repository; Repository contains a minimum of three commits.
+Program is submitted by the due date listed and uploaded to assigned GitHub Repository
 
 
 
@@ -45,4 +45,4 @@ Program is submitted by the due date listed and pushed to assigned GitHub Reposi
 ![Alt text](https://instructorc.github.io/site/slides/java/images/intro/garretts_nutritional_label.PNG "Garretts Nutritional Facts")
 
 ## Submission
-For program 1, you will only need to upload the .java file that contains your code to Sakai under the Assignment tab.  
+For program 1, you will only need to upload the .java file that contains your code to Sakai under the Assignment tab. You will also need to upload the .java file to this repository. 
