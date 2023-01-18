@@ -1,12 +1,10 @@
 
 /*--------------------------------------------
     Program 1: Garrett's Popcorn Calorie Tracker
-    The objective of this program is to determine the number of calories per a user will consume
-    based on the number of cups of popcorn the user enters.  The nutritional facts state that there 
-    are 150 calories (54 calories from fat) per 1 cup (30 grams) of Garrett's mixed popcorn.  You will 
-    create a program that lets the user enter the number of cups of popcorn they ate and then report 
-    the total number of calories consumed, total number of calories from fat, and the amount of popcorn 
-    in grams consumed. 
+    Garrett's popcorn is looking to hire a developer to create a program that allows a customer to determine the total number of calories based on the 
+    number of cups of popcorn the user enters. The nutritional facts state that there are 150 calories (54 calories from fat) per 1 cup (30 grams) of 
+    Garrett's mixed popcorn. You will create a program that lets the customer enter the number of cups of popcorn consumed and then report 1) the total 
+    number of calories consumed 2) the total number of calories from fat, and 3) the amount of popcorn in grams consumed.
 
     Calorie Information: https://www.nutritionix.com/i/garrett-popcorn-shops/garrett-mix/581d840270aa658137d9ddd6
 
@@ -23,7 +21,7 @@
                     Repository contains a minimum of three commits.
 	
     [REPLACE MY INFORMATION WITH YOURS]
-    Course: COMP 170, Fall 1 2022
+    Course: COMP 170, Spring I 2023
     System: Visual Studio Code, Windows 10
     Author: C. Fulton
 */
