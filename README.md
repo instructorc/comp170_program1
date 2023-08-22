@@ -1,6 +1,6 @@
 # Program 1 - Garrett's Popcorn Calorie Calculator
 
-Garrett's popcorn is looking to hire a developer to create a program that allows a customer to determine the total number of calories based on the number of cups of popcorn the user enters.  The nutritional facts state that there are 150 calories (54 calories from fat) per 1 cup (30 grams) of Garrett's mixed popcorn.  You will create a program that lets the customer enter the number of cups of popcorn consumed and then report 1) the total number of calories consumed 2) the total number of calories from fat, and 3) the amount of popcorn in grams consumed. Your program should operate similarly to the program shown in the .gif below
+Garrett's Popcorn is seeking a developer to design a program enabling customers to calculate the total calorie count based on the number of cups of popcorn entered. According to nutritional facts, each cup (30 grams) of Garrett's mixed popcorn contains 150 calories (54 calories from fat). Your task is to create a program that allows users to input the cups of popcorn consumed and generates: 1) the total calories consumed, 2) the total calories from fat, and 3) the popcorn quantity in grams. The program's functionality should resemble that of the program depicted in the provided .gif.
 
 
 ![Alt text](https://instructorc.github.io/site/slides/java/images/intro/program_one_gif.gif "Program 1 Execution Example")
