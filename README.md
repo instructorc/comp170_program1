@@ -20,24 +20,24 @@ number = Integer.parseInt(scn.nextLine());
 ```
 
 ## Requirement 2 (5 Points)
-Input/Output of all necessary information; Program renders format and content displayed above in .gif 
+Input/Output of all necessary information; Program renders the format and content displayed above in .gif.  
+Program output must match the rendered output exactly.
 
 
 ## Requirement 3 (5 Points)
-Correct calculations are made for cup to calorie conversion, calories from fat and cup to grams; Make use of constant final variables.  When possible, make sure to declare all variables that will hold data.
+Correct calculations are made for cup-to-calorie conversion, calories from fat, and cup-to-grams; Constant final variables are represented in the program.  When possible, make sure to declare all variables that will hold data.  
 ```java
-//Example of declaring a variable that should not change during runtime
+//Example of declaring a constant variable that should not change during the runtime of program.
 final double AMC_STOCK_DIVIDEND_RATE = .07;
 ```
 
 ## Requirement 4 (5 Points)
-Style - Use of comments, space and descriptive variable names.  For this course, we will follow the Google Java Style Guide.  You do not need to read the entire style guide, but rather follow the convention that I have used in class and in my videos.  The link below is for your reference.
+Style - Use of comments, space, and descriptive variable names.  For this course, we will follow the Google Java Style Guide.  You do not need to read the entire style guide, but rather follow the convention that I have used in class and in my videos.  The link below is for your reference.
 
 [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Requirement 5 (5 Points)
-Program is submitted by the due date listed and uploaded to assigned GitHub Repository
-
+The program is submitted to Sakai by the due date listed and uploaded to the assigned GitHub Repository
 
 
 ## Resources
@@ -45,4 +45,4 @@ Program is submitted by the due date listed and uploaded to assigned GitHub Repo
 ![Alt text](https://instructorc.github.io/site/slides/java/images/intro/garretts_nutritional_label.PNG "Garretts Nutritional Facts")
 
 ## Submission
-For program 1, you will only need to upload the .java file that contains your code to Sakai under the Assignment tab. You will also need to upload the .java file to this repository. 
+For program 1, you will only need to upload the .java file that contains your code to Sakai under the Assignment tab. You will also need to upload the .java file to your assigned repository. 
